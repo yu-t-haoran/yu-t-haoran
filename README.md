@@ -15,4 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 just hanging around on GitHub
-try to find sth. interesting
+try to find something interesting
+currently building the website of my company
